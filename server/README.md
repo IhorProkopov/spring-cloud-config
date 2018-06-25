@@ -1,0 +1,1 @@
+This is example using of Spring Cloud Configuration server with JDBC backend.
